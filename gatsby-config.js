@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Dolev Bashi',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Dolev Bashi | Full-Stack Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `My research is focused on exoplanet demographics, characterisation of exoplanets in the Galactic context and planetary system architectures.`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
