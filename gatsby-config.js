@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Dolev Bashi | Full-Stack Developer`,
     // Description that goes under your name in main bio
-    description: `My research is focused on exoplanet demographics, characterisation of exoplanets in the Galactic context and planetary system architectures.`,
+    description: `Astrophysics PhD student `,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `My research is focused on exoplanet demographics, characterisation of exoplanets in the Galactic context and planetary system architectures.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
