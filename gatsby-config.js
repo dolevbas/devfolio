@@ -8,12 +8,16 @@ module.exports = {
     title: `Dolev Bashi | Full-Stack Developer`,
     // Description that goes under your name in main bio
     description: `Astrophysics PhD student `,
-    // Optional: Twitter account handle
-    author: `@rfitzio`,
+    // Optional: twitter
+    About: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    Research: `https://github.com/ryanfitzgerald`,
+    // Optional: Github account URL
+    CV: `https://github.com/ryanfitzgerald`,
+    // Optional: Github account URL
+    Outreach: `https://github.com/ryanfitzgerald`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    Space exploration: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
     about: `My research is focused on exoplanet demographics, characterisation of exoplanets in the Galactic context and planetary system architectures.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
